@@ -1,3 +1,4 @@
 #!/bin/bash
-ls -nla
+ls -lan
+
 
