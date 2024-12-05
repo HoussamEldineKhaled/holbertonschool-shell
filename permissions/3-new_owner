@@ -1,3 +1,3 @@
 #!/bin/bash
-chown hello betty
+chown -c hello betty
 
