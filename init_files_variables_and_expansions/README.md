@@ -1,0 +1,1 @@
+we now learn about different variables and operations done in shell
